@@ -1,3 +1,3 @@
 # A full stack application using NodeJS, express, mongoose, JavaScript, CSS and HTML
-This program features three forms for generating tenant, landlord, and contract entries in a mongodb database. 
-Mongoose is utilized by the Server for organizing and retrieving data.
+This program includes three HTML forms for capturing tenant, landlord, and contract data, which are then submitted to the server as requests through JavaScript.
+The server utilizes Mongoose for effectively organizing and retrieving the data in mongodb database.
