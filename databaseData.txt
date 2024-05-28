@@ -1,0 +1,497 @@
+tenant:
+[
+    {
+        "homeAddress": {
+            "address1": "road 1",
+            "town": "Maynooth",
+            "countyCity": "Kildare"
+        },
+        "_id": "663f6719c8aa184967802813",
+        "title": "Mr",
+        "firstName": "Jack",
+        "surname": "Smith",
+        "mobile": 987654321,
+        "email": "jacksmith@example.com",
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Shackleton Road 21",
+            "address2": "231/21",
+            "town": "Celbridge",
+            "countyCity": "Kildare",
+            "eircode": "W23AQ12"
+        },
+        "_id": "663fd2184746fdc95b1a5fc4",
+        "title": "Mr",
+        "otherTitle": "",
+        "firstName": "Benjamin",
+        "surname": "Rodriguez",
+        "mobile": 2321327461,
+        "email": "benro@example.com",
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Hollybank Road 65",
+            "address2": "",
+            "town": "Dublin",
+            "countyCity": "Dublin",
+            "eircode": "D11UE21"
+        },
+        "_id": "663fd2824746fdc95b1a5fc9",
+        "title": "Mrs",
+        "otherTitle": "",
+        "firstName": "Isabela",
+        "surname": "Wright",
+        "mobile": 97734327461,
+        "email": "isabwr@example.com",
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Newtown Road 84",
+            "address2": "",
+            "town": "Maynooth",
+            "countyCity": "Kildare",
+            "eircode": ""
+        },
+        "_id": "663fd2da4746fdc95b1a5fd2",
+        "title": "Mr",
+        "otherTitle": "",
+        "firstName": "Lucas ",
+        "surname": "Garcia",
+        "mobile": 7684327461,
+        "email": "lucasgarcia@example.com",
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Gardiner Lane 28",
+            "address2": "",
+            "town": "Dublin",
+            "countyCity": "Dublin",
+            "eircode": ""
+        },
+        "_id": "663fd36a4746fdc95b1a5fd7",
+        "title": "Ms",
+        "otherTitle": "",
+        "firstName": "Ava",
+        "surname": "Morris",
+        "mobile": 6584327461,
+        "email": "avamorris@example.com",
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Maynooth Road 21",
+            "address2": "",
+            "town": "Celbridge",
+            "countyCity": "Kildare",
+            "eircode": ""
+        },
+        "_id": "663fd6a44746fdc95b1a5fdc",
+        "title": "Mx",
+        "otherTitle": "",
+        "firstName": "Noah",
+        "surname": "Cooper",
+        "mobile": 8744327461,
+        "email": "noahcoop@example.com",
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Newtown Road 22",
+            "address2": "",
+            "town": "Maynooth",
+            "countyCity": "Kildare",
+            "eircode": ""
+        },
+        "_id": "663fd82c4746fdc95b1a5fe5",
+        "title": "Dr",
+        "otherTitle": "",
+        "firstName": "Amelia ",
+        "surname": "Johnson",
+        "mobile": 8644327461,
+        "email": "ameliajohnson@example.com",
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Maynooth Road 26",
+            "address2": "",
+            "town": "Celbridge",
+            "countyCity": "Kildare",
+            "eircode": ""
+        },
+        "_id": "663fd8934746fdc95b1a5fea",
+        "title": "Mx",
+        "otherTitle": "",
+        "firstName": "James",
+        "surname": "Lee",
+        "mobile": 212321123,
+        "email": "jamlee@example.com",
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Parnell Street 27",
+            "address2": "",
+            "town": "Dublin",
+            "countyCity": "Dublin",
+            "eircode": ""
+        },
+        "_id": "663fd93c4746fdc95b1a5fef",
+        "title": "Mx",
+        "otherTitle": "",
+        "firstName": "Harper",
+        "surname": "Williams",
+        "mobile": 50986123,
+        "email": "harperwilliams@example.com",
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Navan Road 16",
+            "address2": "",
+            "town": "Dunboyne",
+            "countyCity": "Meath",
+            "eircode": ""
+        },
+        "_id": "663fd97b4746fdc95b1a5ff4",
+        "title": "Mx",
+        "otherTitle": "",
+        "firstName": "William ",
+        "surname": "Hernandez",
+        "mobile": 2184327461,
+        "email": "willhen@example.com",
+        "__v": 0
+    }
+]
+landlord:
+[
+    {
+        "homeAddress": {
+            "address1": "road 1",
+            "town": "Maynooth",
+            "countyCity": "Kildare"
+        },
+        "_id": "663f6c1d510f8fb68c9f84de",
+        "title": "Mr",
+        "firstName": "Jack",
+        "surname": "Smith",
+        "mobile": 987654321,
+        "email": "jacksmith@example.com",
+        "dateOfBirth": "1990-01-01T00:00:00.000Z",
+        "permissionToRent": true,
+        "permissionToContact": true,
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Maynooth Road 2",
+            "address2": "",
+            "town": "Celbridge",
+            "countyCity": "Kildare",
+            "eircode": "W23WE2"
+        },
+        "_id": "663fcf924746fdc95b1a5fa4",
+        "title": "Mx",
+        "otherTitle": "",
+        "firstName": "Olivia",
+        "surname": "Greene",
+        "mobile": 5784327461,
+        "email": "oliviagreene@example.com",
+        "dateOfBirth": "1988-06-17T00:00:00.000Z",
+        "permissionToRent": true,
+        "permissionToContact": true,
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Moyglare Road 23",
+            "address2": "",
+            "town": "Maynooth",
+            "countyCity": "Kildare",
+            "eircode": "W23IW11"
+        },
+        "_id": "663fd01a4746fdc95b1a5fa9",
+        "title": "Mr",
+        "otherTitle": "",
+        "firstName": "Elijah",
+        "surname": "Carter",
+        "mobile": 3214327461,
+        "email": "elicar@example.com",
+        "dateOfBirth": "1968-11-11T00:00:00.000Z",
+        "permissionToRent": true,
+        "permissionToContact": false,
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Newtown Road 11",
+            "address2": "",
+            "town": "Maynooth",
+            "countyCity": "Kildare",
+            "eircode": "W23WE21"
+        },
+        "_id": "663fd07c4746fdc95b1a5fb2",
+        "title": "Mx",
+        "otherTitle": "",
+        "firstName": "Sophia",
+        "surname": "Nguyen",
+        "mobile": 2334327461,
+        "email": "sophn@example.com",
+        "dateOfBirth": "1977-06-01T00:00:00.000Z",
+        "permissionToRent": false,
+        "permissionToContact": false,
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Moyglare Road 32",
+            "address2": "",
+            "town": "Maynooth",
+            "countyCity": "Kildare",
+            "eircode": "W23WE21"
+        },
+        "_id": "663fd10e4746fdc95b1a5fba",
+        "title": "Mr",
+        "otherTitle": "",
+        "firstName": "Alexander",
+        "surname": "Tompson",
+        "mobile": 3234327461,
+        "email": "alextom@ex.com",
+        "dateOfBirth": "1982-03-17T00:00:00.000Z",
+        "permissionToRent": false,
+        "permissionToContact": true,
+        "__v": 0
+    },
+    {
+        "homeAddress": {
+            "address1": "Green Lane 21",
+            "address2": "",
+            "town": "Leixlip",
+            "countyCity": "Kildare",
+            "eircode": "W23WH25"
+        },
+        "_id": "663fd1644746fdc95b1a5fbf",
+        "title": "Miss",
+        "otherTitle": "",
+        "firstName": "Mia",
+        "surname": "Patel",
+        "mobile": 5784327461,
+        "email": "miapatel@example.com",
+        "dateOfBirth": "1982-06-09T00:00:00.000Z",
+        "permissionToRent": false,
+        "permissionToContact": true,
+        "__v": 0
+    }
+]
+contract:
+[
+    {
+        "_id": "663f7a93497c57ad2d93065f",
+        "contractDate": "2024-05-11T14:02:59.743Z",
+        "propertyAddress": "lane 1",
+        "tenants": [
+            "Jack Smith"
+        ],
+        "fee": 1200,
+        "propertyDoorNumber": 1,
+        "contractLength": "Year",
+        "propertyType": "Apartment",
+        "__v": 0,
+        "landlord": [
+            "Jack Smith"
+        ]
+    },
+    {
+        "_id": "663fda674746fdc95b1a6005",
+        "contractDate": "2024-01-10T00:00:00.000Z",
+        "propertyAddress": "Gardiner Lane 28\t",
+        "tenants": [
+            "benro@example.com",
+            "isabwr@example.com"
+        ],
+        "landlord": [
+            "jacksmith@example.com"
+        ],
+        "fee": 1700,
+        "propertyDoorNumber": 3,
+        "contractLength": "Permanent",
+        "propertyType": "Semi-Detached",
+        "otherPropertyType": "",
+        "__v": 0
+    },
+    {
+        "_id": "663fdc674746fdc95b1a604d",
+        "contractDate": "2024-05-11T21:00:23.834Z",
+        "propertyAddress": "Navan Road 16",
+        "tenants": [
+            "willhen@example.com"
+        ],
+        "landlord": [
+            "sophn@example.com"
+        ],
+        "fee": 1550,
+        "propertyDoorNumber": 3,
+        "contractLength": "Month",
+        "propertyType": "Apartment",
+        "otherPropertyType": "",
+        "__v": 0
+    },
+    {
+        "_id": "663fdca84746fdc95b1a6056",
+        "contractDate": "2024-05-11T21:01:28.208Z",
+        "propertyAddress": "Newtown Road 84",
+        "tenants": [
+            "lucasgarcia@example.com"
+        ],
+        "landlord": [
+            "miapatel@example.com"
+        ],
+        "fee": 1340,
+        "propertyDoorNumber": 16,
+        "contractLength": "Year",
+        "propertyType": "Apartment",
+        "otherPropertyType": "",
+        "__v": 0
+    },
+    {
+        "_id": "663fdcf44746fdc95b1a605b",
+        "contractDate": "2024-03-13T00:00:00.000Z",
+        "propertyAddress": "Maynooth Newtown Road 22",
+        "tenants": [
+            "ameliajohnson@example.com"
+        ],
+        "landlord": [
+            "alextom@ex.com"
+        ],
+        "fee": 2300,
+        "propertyDoorNumber": 1,
+        "contractLength": "Permanent",
+        "propertyType": "Detached",
+        "otherPropertyType": "",
+        "__v": 0
+    },
+    {
+        "_id": "663fdd304746fdc95b1a6060",
+        "contractDate": "2024-05-11T21:03:44.426Z",
+        "propertyAddress": "Dublin Gardiner Lane 29",
+        "tenants": [
+            "avamorris@example.com"
+        ],
+        "landlord": [
+            "miapatel@example.com"
+        ],
+        "fee": 1175,
+        "propertyDoorNumber": 1,
+        "contractLength": "Month",
+        "propertyType": "Apartment",
+        "otherPropertyType": "",
+        "__v": 0
+    },
+    {
+        "_id": "663fdd824746fdc95b1a6065",
+        "contractDate": "2024-05-11T21:05:06.906Z",
+        "propertyAddress": "Hollybank Road 66",
+        "tenants": [
+            "jacksmith@example.com"
+        ],
+        "landlord": [
+            "oliviagreene@example.com"
+        ],
+        "fee": 1300,
+        "propertyDoorNumber": 1,
+        "contractLength": "Month",
+        "propertyType": "Apartment",
+        "otherPropertyType": "",
+        "__v": 0
+    },
+    {
+        "_id": "663fdde24746fdc95b1a606a",
+        "contractDate": "2024-05-11T21:06:42.875Z",
+        "propertyAddress": "Maynooth Road 26",
+        "tenants": [
+            "lucasgarcia@example.com"
+        ],
+        "landlord": [
+            "elicar@example.com"
+        ],
+        "fee": 1870,
+        "propertyDoorNumber": 3,
+        "contractLength": "Permanent",
+        "propertyType": "Semi-Detached",
+        "otherPropertyType": "",
+        "__v": 0
+    },
+    {
+        "_id": "663fde154746fdc95b1a606f",
+        "contractDate": "2024-05-11T21:07:33.145Z",
+        "propertyAddress": "Parnell Street 29",
+        "tenants": [
+            "benro@example.com"
+        ],
+        "landlord": [
+            "oliviagreene@example.com"
+        ],
+        "fee": 1800,
+        "propertyDoorNumber": 12,
+        "contractLength": "Month",
+        "propertyType": "Apartment",
+        "otherPropertyType": "",
+        "__v": 0
+    },
+    {
+        "_id": "663fe3534746fdc95b1a6094",
+        "contractDate": "2024-05-11T21:29:55.241Z",
+        "propertyAddress": "Newtown Road 81",
+        "tenants": [
+            "isabwr@example.com"
+        ],
+        "landlord": [
+            "elicar@example.com"
+        ],
+        "fee": 1230,
+        "propertyDoorNumber": 3,
+        "contractLength": "Month",
+        "propertyType": "Apartment",
+        "otherPropertyType": "",
+        "__v": 0
+    },
+    {
+        "_id": "663ff4ce4746fdc95b1a6101",
+        "contractDate": "2024-05-11T22:44:30.313Z",
+        "propertyAddress": "Parnell Street 67",
+        "tenants": [
+            "benro@example.com"
+        ],
+        "landlord": [
+            "alextom@ex.com"
+        ],
+        "fee": 1230,
+        "propertyDoorNumber": 5,
+        "contractLength": "Month",
+        "propertyType": "Apartment",
+        "otherPropertyType": "",
+        "__v": 0
+    },
+    {
+        "_id": "663ff50c4746fdc95b1a6106",
+        "contractDate": "2024-05-11T22:45:32.558Z",
+        "propertyAddress": "Newtown Road 11",
+        "tenants": [
+            "jamlee@example.com"
+        ],
+        "landlord": [
+            "oliviagreene@example.com"
+        ],
+        "fee": 2000,
+        "propertyDoorNumber": 1,
+        "contractLength": "Year",
+        "propertyType": "Semi-Detached",
+        "otherPropertyType": "",
+        "__v": 0
+    }
+]
