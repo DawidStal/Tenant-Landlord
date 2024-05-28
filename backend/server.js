@@ -6,7 +6,7 @@ import cors from "cors";
 
 const app=express();
 const PORT=5555;
-const mongoDBURL="mongodb+srv://root:123@cluster0.8jfux1u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const mongoDBURL="";
 import mongoose from "mongoose";
 import tenantRoute from "./tenantRoute.js";
 import landlordRoute from "./landlordRoute.js";
